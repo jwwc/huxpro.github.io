@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: https://jwwc.github.io
+disqus_username: jwwc.github.io
 # Netease setttings
 netease_comment: false
 
@@ -60,7 +60,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://jwwc.github.io
+ga_domain: jwwc.github.io
 
 
 
