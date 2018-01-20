@@ -2,7 +2,7 @@
 title: Jwwc Blog
 SEOTitle: 吴超超博客 | Jwwc Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: jxwcsuper@163.com
 description: " java Engineer android Engineer Linux amateur | 这里是 @jwwc 的个人博客，与你一起发现更大的世界。"
 keyword: "os github Linux java"
 url: "https://jwwc.blog"              # your host, for absolute URL
@@ -61,7 +61,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: jwwc.blog
 
 
 
