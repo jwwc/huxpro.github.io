@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     huxpro
 zhihu_username:     huxpro
-github_username:    jwwc.github.io
+github_username:    jwwc
 twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: jwwc.github.io
+disqus_username: jwwc
 # Netease setttings
 netease_comment: false
 
@@ -60,7 +60,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: jwwc.github.io
+ga_domain: jwwc
 
 
 
