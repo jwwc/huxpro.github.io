@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "完美的jekyll"
+subtitle:   ""
+date:       2018-09-04 12:00:00
+author:     "jwwc"
+header-img: "img/post-bg-android.jpg"
+tags:
+    - 知乎
+    - 交互设计
+    - Android
+---
+>这是我的第二次尝试
