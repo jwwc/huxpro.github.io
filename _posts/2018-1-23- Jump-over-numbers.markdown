@@ -9,7 +9,7 @@ tags:
     - C++
     - 基础算法题
 ---
-
+#非递归算法
 int jump_over_numbers(const vector<int>& list) {
     int pos = 0;
     int ans = 0;
@@ -24,6 +24,8 @@ int jump_over_numbers(const vector<int>& list) {
 
     return ans;
 }
+递归的典型错误
+
 #include<iostream>
 using namespace std;
 void jump_over_numbers(vector<int> &list);
