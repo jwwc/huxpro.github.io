@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      "端口的状态和握手原则"
-subtitle:   "端口的状态和握手原则"
-date:       2018-1-23 08:00:00
-author:     "jwwc
-header-img: "img/post-bg-android.jpg"
+title:      "端口状态与握手原则"
+subtitle:   "端口状态与握手原则"
+date:       2018-01-23 12:00:00
+author:     "jwwc"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
-    - 网络
+    - 网络
 ---
 
 1:LISTENNING:侦听状态，端口开放等待被连接
