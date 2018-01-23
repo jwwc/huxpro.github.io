@@ -11,18 +11,28 @@ tags:
 ---
 #非递归算法
 int jump_over_numbers(const vector<int>& list) {
+	
     int pos = 0;
+    
     int ans = 0;
+    
     while (pos < list.size()) {
+    
         int curr_val = list[pos];
+	
         if (curr_val == 0) {
+	
             return -1;
         }
+	
         ans++;
+	
         pos += curr_val;
+	
     }
 
     return ans;
+    
 }
 递归的典型错误
 
