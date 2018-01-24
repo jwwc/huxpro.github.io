@@ -3,8 +3,7 @@
 
 Hey，我是吴超超，病毒种，进化程度不明，多出没于[博客](https://jwwc.github.io)、[微博](weibo.com/jwwc)、[知乎](https://www.zhihu.com/people/jwwc/activities)、[Github](http://github.com/jwwc) 等地带，绝招尚在开发中。
 
-职业是计算机科学与技术的学生，在基于百度的sdk的基础之上开发过校园导航，使用okhttp爬虫框架做过一个超级课程表，还有同学合作多个外包项目，对算法和数据结构有着浓厚的兴趣，也经常的写算法程序上传到github,对linux有着特别的青睐，喜欢命令行的高效的终端环境，我就是我，一个对各种技术都充满求知欲的年轻人
-/*[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。*/
+职业是计算机科学与技术的学生，在基于百度的sdk的基础之上开发过校园导航，使用okhttp爬虫框架做过一个超级课程表，还有同学合作多个外包项目，对算法和数据结构有着浓厚的兴趣，也经常的写算法程序上传到github,对linux有着特别的青睐，喜欢命令行的高效的终端环境，我就是我，一个对各种技术都充满求知欲的年轻人.
 
 一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/jwwc)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
 
